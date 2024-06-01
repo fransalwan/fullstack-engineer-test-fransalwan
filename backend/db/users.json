@@ -1,0 +1,26 @@
+[
+  {
+    "name": "fransalwan",
+    "email": "frans@gmail.com",
+    "password": "123456",
+    "gender": "Male"
+  },
+  {
+    "name": "fransalwan2",
+    "email": "frans2@gmail.com",
+    "password": "123456",
+    "gender": "Male"
+  },
+  {
+    "name": "kasih",
+    "email": "kasih@gmail.com",
+    "password": "123456",
+    "gender": "Female"
+  },
+  {
+    "name": "kasih2",
+    "email": "kasih2@gmail.com",
+    "password": "123456",
+    "gender": "Female"
+  }
+]
